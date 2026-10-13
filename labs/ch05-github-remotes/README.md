@@ -1,4 +1,6 @@
 # GitHub Remotes
+Chapter 5 Practice
+-> Learning to connect local machine to Git Hub.
 
 ## Objective
 
