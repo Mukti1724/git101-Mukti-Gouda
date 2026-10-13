@@ -15,3 +15,7 @@ Follow the chapter instructions in Zoho Learn and use this folder for practice.
 ## Submission
 
 Submit the required command output, screenshot, or pull request link in Zoho Learn.
+
+## Chapter 10
+
+Data quality checks are automated using GitHub Actions and pytest.
